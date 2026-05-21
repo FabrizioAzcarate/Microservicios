@@ -1,4 +1,4 @@
-# Proyecto Microservicios
+# Microservicios
 
 Proyecto desarrollado con arquitectura de microservicios usando Python, Flask, Docker y MySQL.  
 Cuenta con dos servicios independientes que se comunican entre sí mediante APIs REST.
@@ -338,7 +338,3 @@ docker compose down
 - SOA (Service Oriented Architecture)
 
 ---
-
-# Estado del proyecto
-
-Proyecto funcional y listo para pruebas o entrega académica.
